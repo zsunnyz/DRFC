@@ -202,23 +202,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document10]
-DocumentPath=CAN_mux.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OBRKWQFG
-
-[Document11]
 DocumentPath=dual_CAN_conn.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SMAXFSMU
 
-[Document12]
+[Document11]
 DocumentPath=power_mux.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +235,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HGEDWMUR
 
-[Document13]
+[Document12]
 DocumentPath=CAN_bus_powered.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,7 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HISIQTTM
 
-[Document14]
+[Document13]
 DocumentPath=..\Lib\drfc_schlib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
